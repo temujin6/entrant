@@ -1,0 +1,13 @@
+<svg width="361" height="729" viewBox="0 0 361 729" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="12.6144" cy="13.2768" r="12.6144" fill="#0053AD"/>
+<circle cx="12.6144" cy="294.277" r="12.6144" fill="#0053AD"/>
+<circle cx="12.6144" cy="575.277" r="12.6144" fill="#0053AD"/>
+<circle cx="347.614" cy="154.277" r="12.6144" fill="#0053AD"/>
+<circle cx="347.614" cy="435.277" r="12.6144" fill="#0053AD"/>
+<circle cx="347.614" cy="716.277" r="12.6144" fill="#0053AD"/>
+<line x1="0.700802" y1="-0.700802" x2="357.185" y2="-0.700802" transform="matrix(-0.919285 -0.393592 0.461331 -0.887228 343 154.138)" stroke="#0053AD" stroke-width="1.4016" stroke-linecap="round" stroke-dasharray="11.21 11.21"/>
+<line x1="0.700802" y1="-0.700802" x2="357.185" y2="-0.700802" transform="matrix(-0.919285 -0.393592 0.461331 -0.887228 343 435.16)" stroke="#0053AD" stroke-width="1.4016" stroke-linecap="round" stroke-dasharray="11.21 11.21"/>
+<line x1="0.700802" y1="-0.700802" x2="357.185" y2="-0.700802" transform="matrix(-0.919285 -0.393592 0.461331 -0.887228 343 715.861)" stroke="#0053AD" stroke-width="1.4016" stroke-linecap="round" stroke-dasharray="11.21 11.21"/>
+<line x1="0.700802" y1="-0.700802" x2="357.185" y2="-0.700802" transform="matrix(0.919285 -0.393592 -0.461331 -0.887228 14 576.021)" stroke="#0053AD" stroke-width="1.4016" stroke-linecap="round" stroke-dasharray="11.21 11.21"/>
+<line x1="0.700802" y1="-0.700802" x2="357.185" y2="-0.700802" transform="matrix(0.919285 -0.393592 -0.461331 -0.887228 14 295)" stroke="#0053AD" stroke-width="1.4016" stroke-linecap="round" stroke-dasharray="11.21 11.21"/>
+</svg>
